@@ -53,3 +53,8 @@
 Над проектом трудились студентки 3 курса ФИТ НГУ:
 * Анна Воронова
 * Алина Гусельникова
+
+## Ссылки
+* Bacon, M. E. ; Heald, George; James, Matt. A closer look at tumbling toast // American Journal of Physics, Volume 69, Issue 1, pp. 38-43 (2001) - https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=26a061e77c4a30dbf59db13f557b4598f497e066;
+* Borghi, Riccardo. On the tumbling toast problem // European Journal of Physics, Volume 33, Issue 5, pp. 1407-1420 (2012) - https://gwern.net/doc/science/2012-borghi.pdf;
+* Прочитать подробнее о нашем проекте можно здесь - https://docs.google.com/document/d/1CIVMSoTxS16ox8AYN52t24_nPTOgUWwVy8sc3cFI5E4/edit#heading=h.mlm64lgy0p5b.
